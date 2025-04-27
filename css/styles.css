@@ -456,6 +456,8 @@ p {
 }
 
 .footer-social-item {
+  width: 40px;
+  height: 40px;
 }
 
 .footer-social-link {
