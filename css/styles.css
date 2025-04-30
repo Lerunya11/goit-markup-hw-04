@@ -66,7 +66,10 @@ p {
   padding: 0 15px;
   margin: 0 auto;
 }
-
+.header-container {
+  display: flex;
+  align-items: center;
+}
 
 /* #region Header */
 .header {
@@ -138,11 +141,10 @@ p {
   border-radius: 2px;
 }
 
-
 .contact-block {
   font-style: normal;
+  margin-left: auto;
 }
-
 
 .contacts-list {
   display: flex;
@@ -565,8 +567,6 @@ p {
 .footer-container {
   display: flex;
   align-items: baseline;
-  flex-wrap: wrap;
-  gap: 72px;
 }
 
 
