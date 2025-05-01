@@ -491,6 +491,7 @@ p {
   letter-spacing: 0.02em;
 }
 
+/* Блок соцсетей */
 .footer-social-block {
   max-width: 208px;
   margin-right: 80px;
@@ -538,6 +539,7 @@ p {
   fill: var(--cloud);
 }
 
+/* Блок подписки */
 .footer-subscribe-block {
   max-width: 453px;
 }
