@@ -249,6 +249,8 @@ p {
   width: 264px;
   height: 112px;
   margin-bottom: 8px;
+
+  border: 1px solid #8e8f99;
 }
 
 
@@ -267,9 +269,9 @@ p {
   color: var(--slate);
 }
 
-.features-container {
+/* .features-container {
   border: 1px solid #8e8f99;
-}
+} */
 
 
 /* #region Team Section */
@@ -422,7 +424,6 @@ p {
 /* Контент под картинкой */
 .portfolio-content {
   padding: 32px 16px;
-  border: 1px solid #8e8f99;
 }
 
 
